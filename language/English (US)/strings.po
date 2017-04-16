@@ -53,12 +53,12 @@ msgid "Architecture: "
 msgstr "Architecture: "
 
 msgctxt "#609"
-msgid "Libre Embedded Linux Entertainment Center (LibreELEC) is a minimal Linux distribution purpose built for Kodi media center. LibreELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
-msgstr "Libre Embedded Linux Entertainment Center (LibreELEC) is a minimal Linux distribution purpose built for Kodi media center. LibreELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
+msgid "Boss Box is a minimal Linux distribution purpose built for Kodi media center. LibreELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
+msgstr "Boss Box is a minimal Linux distribution purpose built for Kodi media center. LibreELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
 
 msgctxt "#610"
-msgid "[B]Support:[/B][CR]Web: http://libreelec.tv[CR]Forum: http://forum.libreelec.tv/[CR]Wiki: http://wiki.libreelec.tv[CR][CR][B]Social Media:[/B][CR]IRC: #libreelec on freenode.net (web-based chat is also available from the website)[CR]Twitter: https://twitter.com/libreelec[CR]Facebook: http://www.facebook.com/LibreELEC[CR]Google+: https://plus.google.com/+libreelec"
-msgstr "[B]Support:[/B][CR]Web: http://libreelec.tv[CR]Forum: http://forum.libreelec.tv/[CR]Wiki: http://wiki.libreelec.tv[CR][CR][B]Social Media:[/B][CR]IRC: #libreelec on freenode.net (web-based chat is also available from the website)[CR]Twitter: https://twitter.com/libreelec[CR]Facebook: http://www.facebook.com/LibreELEC[CR]Google+: https://plus.google.com/+libreelec"
+msgid "[B]Social Media:[/B][CR]Twitter: https://twitter.com/playfrog4u[CR]Facebook: http://www.facebook.com/playfrog4u"
+msgstr "[B]Social Media:[/B][CR]Twitter: https://twitter.com/playfrog4u[CR]Facebook: http://www.facebook.com/playfrog4u"
 
 msgctxt "#700"
 msgid "Configure a hostname, keyboard type, perform a reset, update, or backups and restores"
@@ -569,8 +569,8 @@ msgid "Thank you"
 msgstr "Thank you"
 
 msgctxt "#32318"
-msgid "Your @DISTRONAME@ installation is now complete and you'll now enter Kodi when you can set up your media libraries. For help with this, there is a guide available at wiki.kodi.tv[CR][CR]@DISTRONAME@ is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find @DISTRONAME@ useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using @DISTRONAME@ as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at our website"
-msgstr "Your @DISTRONAME@ installation is now complete and you'll now enter Kodi when you can set up your media libraries. For help with this, there is a guide available at wiki.kodi.tv[CR][CR]@DISTRONAME@ is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find @DISTRONAME@ useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using @DISTRONAME@ as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at our website"
+msgid "Your @DISTRONAME@ installation is now complete and you'll now enter Kodi with pre-installed addons for the ultimate experience.[CR][CR]@DISTRONAME@ is developed by Tristen Russ in his spare time. If you find @DISTRONAME@ useful, I will always appreciate a donation of any amount.[CR][CR]Finally, I hope you enjoy using @DISTRONAME@ as much as I've enjoying building it. If you need any more help, don't hesitate to ask. I'm always open for requests aswell."
+msgstr "Your @DISTRONAME@ installation is now complete and you'll now enter Kodi with pre-installed addons for the ultimate experience.[CR][CR]@DISTRONAME@ is developed by Tristen Russ in his spare time. If you find @DISTRONAME@ useful, I will always appreciate a donation of any amount.[CR][CR]Finally, I hope you enjoy using @DISTRONAME@ as much as I've enjoying building it. If you need any more help, don't hesitate to ask. I'm always open for requests aswell."
 
 msgctxt "#32319"
 msgid "Cron"
