@@ -33,7 +33,7 @@
                 <top>2</top>
                 <width>270</width>
                 <height>676</height>
-                <texture>default/bossbox.png</texture>
+                <texture>default/wizard.png</texture>
             </control>
             <control type="image">
                 <left>268</left>
