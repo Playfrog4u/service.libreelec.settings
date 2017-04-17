@@ -53,8 +53,8 @@ msgid "Architecture: "
 msgstr "Architecture: "
 
 msgctxt "#609"
-msgid "Boss Box is a minimal Linux distribution purpose built for Kodi media center. LibreELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
-msgstr "Boss Box is a minimal Linux distribution purpose built for Kodi media center. LibreELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
+msgid "BossBox is a minimal Linux distribution purpose built for Kodi media center. BossBox is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
+msgstr "BossBox is a minimal Linux distribution purpose built for Kodi media center. BossBox is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
 
 msgctxt "#610"
 msgid "[B]Social Media:[/B][CR]Twitter: https://twitter.com/playfrog4u[CR]Facebook: http://www.facebook.com/playfrog4u"
